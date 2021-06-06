@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Love</string>
+    <string name="pic_1">Joy</string>
+    <string name="pic_2">Peace</string>
+    <string name="pic_3">Patience</string>
+    <string name="pic_4">Kindness</string>
+    <string name="pic_5">Goodness</string>
+    <string name="pic_6">Faithfulness</string>
+    <string name="google_search">Google Search</string>
+</resources>
